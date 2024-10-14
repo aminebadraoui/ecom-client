@@ -14,7 +14,7 @@ function Hero() {
             <div className="absolute inset-0 bg-cover bg-center z-0" style={{ backgroundImage: `url('/hero_image.jpg')` }}></div>
             <div className="absolute inset-0 bg-black opacity-50 z-10"></div>
             <div className="relative z-20 text-center">
-                <h1 className="text-6xl font-bold mb-4">TSALCO Woodworks</h1>
+                <h1 className="text-6xl font-bold mb-4">Tzalco Woodworks</h1>
                 <p className="text-2xl mb-8">Crafting Excellence Since 1985</p>
                 <a href="#categories" className="bg-yellow-600 text-white font-bold py-3 px-6 rounded-full text-lg transition duration-300 inline-block hover:bg-yellow-700">
                     Explore Our Work

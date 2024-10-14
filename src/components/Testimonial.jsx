@@ -6,7 +6,7 @@ const testimonials = [
     {
         id: 1,
         name: "John Doe",
-        text: "TSALCO Woodworks created a beautiful custom dining table for us. The craftsmanship is outstanding!"
+        text: "Tzalco Woodworks created a beautiful custom dining table for us. The craftsmanship is outstanding!"
     },
     {
         id: 2,
@@ -16,7 +16,7 @@ const testimonials = [
     {
         id: 3,
         name: "Mike Johnson",
-        text: "The outdoor furniture from TSALCO is not only beautiful but also incredibly durable. Highly recommended!"
+        text: "The outdoor furniture from Tzalco is not only beautiful but also incredibly durable. Highly recommended!"
     }
 ];
 
